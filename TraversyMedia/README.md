@@ -19,7 +19,7 @@ cd react-task-tracker
 npm start
 ```
 - [x] 18:54​ - App component & JSX
-- [ ] 22:39​ - Expressions in JSX
+- [x] 22:39​ - Expressions in JSX
 - [ ] 23:49​ - Creating a component
 - [ ] 27:18​ - Component Props
 - [ ] 28:50​ - PropTypes
