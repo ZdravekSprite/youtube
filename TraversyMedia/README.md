@@ -14,11 +14,11 @@ Timestamps:
 npx create-react-app react-task-tracker
 cd react-task-tracker
 ```
-- [ ] 14:52​ - Files & folders
+- [x] 14:52​ - Files & folders
 ```
 npm start
 ```
-- [ ] 18:54​ - App component & JSX
+- [x] 18:54​ - App component & JSX
 - [ ] 22:39​ - Expressions in JSX
 - [ ] 23:49​ - Creating a component
 - [ ] 27:18​ - Component Props
