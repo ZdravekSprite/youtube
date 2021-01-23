@@ -29,7 +29,7 @@ npm start
 - [x] 40:18​ - Tasks Component
 - [x] 41:03​ - Create a list with .map()
 - [x] 43:07​ - State & useState Hook
-- [ ] 44:55​ - Global state
+- [x] 44:55​ - Global state
 - [ ] 46:52​ - Task Component
 - [ ] 49:30​ - Icons with react-icons
 - [ ] 51:41​ - Delete task & prop drilling
