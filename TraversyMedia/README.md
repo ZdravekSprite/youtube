@@ -21,7 +21,7 @@ npm start
 - [x] 18:54​ - App component & JSX
 - [x] 22:39​ - Expressions in JSX
 - [x] 23:49​ - Creating a component
-- [ ] 27:18​ - Component Props
+- [x] 27:18​ - Component Props
 - [ ] 28:50​ - PropTypes
 - [ ] 30:42​ - Styling
 - [ ] 34:17​ - Button Component
