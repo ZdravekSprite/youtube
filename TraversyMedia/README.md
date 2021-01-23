@@ -27,7 +27,7 @@ npm start
 - [x] 34:17​ - Button Component
 - [x] 37:46​ - Events
 - [x] 40:18​ - Tasks Component
-- [ ] 41:03​ - Create a list with .map()
+- [x] 41:03​ - Create a list with .map()
 - [ ] 43:07​ - State & useState Hook
 - [ ] 44:55​ - Global state
 - [ ] 46:52​ - Task Component
