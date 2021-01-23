@@ -22,7 +22,7 @@ npm start
 - [x] 22:39​ - Expressions in JSX
 - [x] 23:49​ - Creating a component
 - [x] 27:18​ - Component Props
-- [ ] 28:50​ - PropTypes
+- [x] 28:50​ - PropTypes
 - [ ] 30:42​ - Styling
 - [ ] 34:17​ - Button Component
 - [ ] 37:46​ - Events
