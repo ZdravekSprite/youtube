@@ -33,7 +33,11 @@ function App() {
   return (
     <div className="container">
       <Header title='Task Tracker' />
-      <Tasks tasks={tasks} onDelete={deleteTask} />
+      {tasks.length > 0 ? (
+        <Tasks tasks={tasks} onDelete={deleteTask} />
+      ) : (
+        'No Tasks To Show'
+      )}
     </div>
   );
 }

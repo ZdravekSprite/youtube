@@ -35,8 +35,8 @@ npm start
 ```
 npm i react-icons
 ```
-- [ ] 51:41​ - Delete task & prop drilling
-- [ ] 55:50​ - Optional message if no tasks
+- [x] 51:41​ - Delete task & prop drilling
+- [x] 55:50​ - Optional message if no tasks
 - [ ] 56:58​ - Toggle reminder & conditional styling
 - [ ] 1:03:13​ - Add Task Form
 - [ ] 1:06:16​ - Form input state (controlled components)
