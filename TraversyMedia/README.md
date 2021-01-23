@@ -4,8 +4,8 @@
 
 ## React JS Crash Course 2021
 
-[Youtube](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
-[github](https://github.com/bradtraversy/react-crash-2021)
+* [Youtube](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+* [Github](https://github.com/bradtraversy/react-crash-2021)
 
 Timestamps:
 - [x] 0:00​ - Intro & Slides
@@ -15,6 +15,9 @@ npx create-react-app react-task-tracker
 cd react-task-tracker
 ```
 - [ ] 14:52​ - Files & folders
+```
+npm start
+```
 - [ ] 18:54​ - App component & JSX
 - [ ] 22:39​ - Expressions in JSX
 - [ ] 23:49​ - Creating a component
