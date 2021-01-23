@@ -31,7 +31,10 @@ npm start
 - [x] 43:07​ - State & useState Hook
 - [x] 44:55​ - Global state
 - [x] 46:52​ - Task Component
-- [ ] 49:30​ - Icons with react-icons
+- [x] 49:30​ - Icons with react-icons
+```
+npm i react-icons
+```
 - [ ] 51:41​ - Delete task & prop drilling
 - [ ] 55:50​ - Optional message if no tasks
 - [ ] 56:58​ - Toggle reminder & conditional styling
