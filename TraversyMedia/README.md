@@ -24,7 +24,7 @@ npm start
 - [x] 27:18​ - Component Props
 - [x] 28:50​ - PropTypes
 - [x] 30:42​ - Styling
-- [ ] 34:17​ - Button Component
+- [x] 34:17​ - Button Component
 - [ ] 37:46​ - Events
 - [ ] 40:18​ - Tasks Component
 - [ ] 41:03​ - Create a list with .map()
