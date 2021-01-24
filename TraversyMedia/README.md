@@ -49,7 +49,11 @@ npm run build
 npm i -g serve
 serve -s build -p 8000
 ```
-- [ ] 1:21:51​ - JSON Server
+- [x] 1:21:51​ - JSON Server
+```
+npm i json-server
+npm run server
+```
 - [ ] 1:25:53​ - useEffect Hook & Fetch tasks from server
 - [ ] 1:30:13​ - Delete task from server
 - [ ] 1:31:51​ - Add task to server
