@@ -40,8 +40,8 @@ npm i react-icons
 - [x] 56:58​ - Toggle reminder & conditional styling
 - [x] 1:03:13​ - Add Task Form
 - [x] 1:06:16​ - Form input state (controlled components)
-- [ ] 1:09:18​ - Add task submit
-- [ ] 1:14:36​ - showAddTask state
+- [x] 1:09:18​ - Add task submit
+- [x] 1:14:36​ - showAddTask state
 - [ ] 1:15:58​ - Button toggle
 - [ ] 1:19:33​ - Build for production
 - [ ] 1:21:51​ - JSON Server
