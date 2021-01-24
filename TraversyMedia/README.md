@@ -43,7 +43,12 @@ npm i react-icons
 - [x] 1:09:18​ - Add task submit
 - [x] 1:14:36​ - showAddTask state
 - [x] 1:15:58​ - Button toggle
-- [ ] 1:19:33​ - Build for production
+- [x] 1:19:33​ - Build for production
+```
+npm run build
+npm i -g serve
+serve -s build -p 8000
+```
 - [ ] 1:21:51​ - JSON Server
 - [ ] 1:25:53​ - useEffect Hook & Fetch tasks from server
 - [ ] 1:30:13​ - Delete task from server
