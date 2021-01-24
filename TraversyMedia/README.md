@@ -62,3 +62,19 @@ npm run server
 ```
 npm i react-router-dom
 ```
+
+## React Native Crash Course 2020
+
+* [Youtube](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
+* [Github](https://github.com/bradtraversy/react_native_shopping_list)
+
+```
+git checkout -b react-native-crash-course-2020
+```
+
+Timestamps:
+- [x] 0:00​ - Intro & Slides
+- [x] 5:05​ - Let's Get Started
+* [React Native](https://reactnative.dev/)
+* [Android Studio](https://developer.android.com/studio)
+* [Xcode](https://developer.apple.com/xcode/)
