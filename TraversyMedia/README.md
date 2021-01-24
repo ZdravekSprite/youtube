@@ -58,4 +58,7 @@ npm run server
 - [x] 1:30:13​ - Delete task from server
 - [x] 1:31:51​ - Add task to server
 - [x] 1:35:15​ - Toggle reminder on server
-- [ ] 1:39:15​ - Routing, footer & about
+- [x] 1:39:15​ - Routing, footer & about
+```
+npm i react-router-dom
+```
