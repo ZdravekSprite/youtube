@@ -39,7 +39,7 @@ npm i react-icons
 - [x] 55:50​ - Optional message if no tasks
 - [x] 56:58​ - Toggle reminder & conditional styling
 - [x] 1:03:13​ - Add Task Form
-- [ ] 1:06:16​ - Form input state (controlled components)
+- [x] 1:06:16​ - Form input state (controlled components)
 - [ ] 1:09:18​ - Add task submit
 - [ ] 1:14:36​ - showAddTask state
 - [ ] 1:15:58​ - Button toggle
