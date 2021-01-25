@@ -78,3 +78,13 @@ Timestamps:
 * [React Native](https://reactnative.dev/)
 * [Android Studio](https://developer.android.com/studio)
 * [Xcode](https://developer.apple.com/xcode/)
+- [x] 8:40​ - Install React Native CLI
+```
+npm i -g react-native-cli
+react-native init ShoppingList
+cd ShoppingList
+npm i react-native-vector-icons
+react-native link react-native-vector-icons
+npm i uuidv4
+react-native run-android
+```
